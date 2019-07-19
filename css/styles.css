@@ -1,0 +1,22 @@
+h1, p, .row {
+  text-align: center;
+  font-size: 130%;
+}
+h1, h2, h3, h4, p{
+  color: white;
+}
+h4{
+  text-align: center;
+  width: 10%;
+  margin: auto;
+}
+body {
+  position: relative;
+  background-color: black;
+}
+.top-row {
+  margin-top: 50px
+}
+.bottom {
+  margin-bottom: 50px;
+}
